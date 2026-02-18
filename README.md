@@ -1,0 +1,1 @@
+Backend for Brush. Not intended to be installed as is. Please read doc here: [https://brush.maddlen.fr](https://brush.maddlen.fr)
